@@ -1,0 +1,7 @@
+it/polito/bigdata/hadoop/lab/MapperBigData1.class
+it/polito/bigdata/hadoop/lab/DriverBigData.class
+it/polito/bigdata/hadoop/lab/ReducerBigData1.class
+it/polito/bigdata/hadoop/lab/TopKVector.class
+it/polito/bigdata/hadoop/lab/ReducerBigData2.class
+it/polito/bigdata/hadoop/lab/MapperBigData2.class
+it/polito/bigdata/hadoop/lab/WordCountWritable.class
